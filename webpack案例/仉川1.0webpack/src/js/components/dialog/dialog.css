@@ -1,0 +1,13 @@
+.cont{
+    width: 100%;
+    height: auto;
+    background: #ffff4f;
+    margin-top: 20px;
+    border: 5px solid purple;
+}
+.cont h2{
+    color: red
+}
+.cont span{
+    color: #0000fe;
+}

@@ -1,0 +1,16 @@
+.bg{
+    background: red;
+    color: yellow;
+    border: 4px dashed #ffff4f;
+}
+.box {
+    background: url("../../images/a2.png") no-repeat;
+    width: 150px;
+    height: 150px;
+}
+h2{
+    width: 100%;
+    height: 50px;
+    line-height:50px;
+    color: #ffff4f;
+}

@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(120, 130, 130);
+    opacity: 0.5;
+}
+
+.test {
+	width: 140px;
+	height: 140px;
+	transform:rotate(70deg);
+}
